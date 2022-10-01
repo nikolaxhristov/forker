@@ -1,7 +1,7 @@
 [package]
 name = "forker"
 version = "0.0.1"
-authors = ["Nikola R. Hristov <nikola@lightrix.dev>"]
+authors = ["Nikola R. Hristov <nikola@lightrix.help>"]
 edition = "2021"
 description = "Forker is library that forks GitHub repositories."
 documentation = "https://docs.rs/forker"
