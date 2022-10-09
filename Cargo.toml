@@ -1,14 +1,5 @@
 [package]
 name = "forker"
 version = "0.0.1"
-authors = ["nikolaxhristov"]
-edition = "2021"
-description = "Forker is library that forks GitHub repositories."
-documentation = "https://docs.rs/forker"
-readme = "README.md"
-repository = "https://github.com/Playform/forker"
-license-file = "LICENSE"
-keywords = ["forker"]
-categories = ["command-line-interface"]
 
 [dependencies]
